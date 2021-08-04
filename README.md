@@ -1,2 +1,2 @@
 # AfrHyphenation
-Afrikaans hyphenation patterns with the Apache License
+Afrikaans hyphenation patterns with the MIT License
